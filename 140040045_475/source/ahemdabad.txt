@@ -1,0 +1,8 @@
+STATION			ARRIVAL<Hrs> 	DEPARTURE<Hrs>
+Mumbai			0830		0830
+Bhiwandi		0940		0945
+Boisar			1110		1125
+Surat			1250		1310
+Ankaleshwar		1415		1425
+Vadodara		1535		1545
+Ahemdabad		1735		0000

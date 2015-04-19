@@ -1,0 +1,6 @@
+STATION			ARRIVAL<Hrs> 	DEPARTURE<Hrs>
+Mumbai			0900		0900
+Harda			1145		1155
+Itarshi			1315		1330	
+Habibganj		1445		1455
+Bhopal			1600		0000

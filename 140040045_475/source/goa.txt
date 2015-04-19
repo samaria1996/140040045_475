@@ -1,0 +1,8 @@
+STATION			ARRIVAL<Hrs> 	DEPARTURE<Hrs>
+Mumbai			0430		0430
+Pune			0735		0745
+Satare			0900		0910
+Shirala			1030		1050
+Belgaum			1220		1225
+Goa			1435		0000
+

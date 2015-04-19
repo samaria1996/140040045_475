@@ -1,0 +1,14 @@
+STATION			ARRIVAL<Hrs> 	DEPARTURE<Hrs>
+Mumbai			0600		0600
+Solapur			0810		0820
+Gulbarga		1230		1245
+Nalwar			1400		1410
+Gootu			1530		1535
+Hindupur		1610		1625
+Bangalore East 		1705		1715
+Bangalore		1815     	0000
+
+
+
+
+
